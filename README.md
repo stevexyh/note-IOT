@@ -1,17 +1,10 @@
-@import "ch-1.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-2.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-3.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-4.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-5.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-6.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-7.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-8.md"
-<div STYLE="page-break-after: always;"></div>
-@import "ch-9.md"
+# 物联网导论笔记
+
+> 美化版见pdf
+> 或支持Markdown渲染的编辑器打开 `total.md`
+> 完整版的样式暂时还有点丑, 将就看吧...
+
+推荐 [Typora](https://typora.io/)
+
+---
+**by [Steve X](https://github.com/Steve-Xyh)**
